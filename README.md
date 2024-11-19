@@ -45,4 +45,4 @@ class Skills extends Desenvolvedor {
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaique-Gomes-de-Jesus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
 </div>
-![Snake animation](https://github.com/Kaique-Gomes-de-Jesus/Kaique-Gomes-de-Jesus/blob/output/github-contribution-grid-snake.svg)
+
