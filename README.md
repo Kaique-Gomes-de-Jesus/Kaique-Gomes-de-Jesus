@@ -4,15 +4,15 @@ import Desenvolvedor from "Kaique Gomes";
 
 class SobreMim extends Desenvolvedor {
   nome = "Kaique Gomes de Jesus";
-  area = "Instrutor e Desenvolvedor FullStack";
-  trabalho = "Instrutor de Tecnologia - Senai Têxtil "
+  area = "Desenvolvedor";
+  trabalho = 
   contato = "kgjesus2299@gmail.com";
   }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["JavaScript, Python, Java, PHP, TypeScript"];
-  bibliotecas = ["ReactJS", "TensorFlow", "Styled Components", "jQuery", "Bootstrap"];
-  frameworks = ["React.js, Express, Next.js, Flask, Django, Laravel"];
+  linguagens = ["Python"];
+  bibliotecas = ["PyAutoGui, Pygame"];
+  frameworks = 
   fraquezas = ["Lembrar de deslogar minhas contas de computadores públicos"];
 }
 ```
