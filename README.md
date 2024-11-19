@@ -3,10 +3,10 @@
 import Desenvolvedor from "Kaique Gomes";
 
 class SobreMim extends Desenvolvedor {
-  nome = "Gabriel Brito de Sousa";
+  nome = "Kaique Gomes de Jesus";
   area = "Instrutor e Desenvolvedor FullStack";
   trabalho = "Instrutor de Tecnologia - Senai Têxtil "
-  contato = "gabrielbritodesousa@gmail.com";
+  contato = "kgjesus2299@gmail.com";
   }
 
 class Skills extends Desenvolvedor {
