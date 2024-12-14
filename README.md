@@ -5,14 +5,12 @@ import Desenvolvedor from "Kaique Gomes";
 class SobreMim extends Desenvolvedor {
   nome = "Kaique Gomes de Jesus";
   area = "Desenvolvedor";
-  trabalho = 
   contato = "kgjesus2299@gmail.com";
   }
 
 class Skills extends Desenvolvedor {
   linguagens = ["Python"];
   bibliotecas = ["PyAutoGui, Pygame"];
-  frameworks = 
   fraquezas = ["Lembrar de deslogar minhas contas de computadores públicos"];
 }
 ```
